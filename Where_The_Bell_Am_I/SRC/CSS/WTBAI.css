@@ -1,0 +1,31 @@
+body {
+    background-image:url("../Resources/WTBAI_BG.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#zipCode {
+    size: 10px;
+    float:left;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+}
+
+#submit {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
+
+.list-group {
+    size:50%;
+    float: left;
+}
+
+.address {
+    color:blue;
+}
+
+.details {
+    color:blue;
+}
+
